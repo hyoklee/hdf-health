@@ -1,6 +1,6 @@
 # HDF-HEALTH Tools and Information Center
 
-Announcement: I'm looking for Geo-tagged health data samples. (e.g., Apple Watch heartbeat/breathing data with geo-location in polluted/smog region).
+Announcement: I'm looking for Geo-tagged health data samples. (e.g., Apple Watch 6 & Galaxy Watch 3 Electrocardiography/heartbeat/breathing data with geo-location in polluted/smog region).
 
 This is a central hub for exchanging solutions on health data management in HDF5.
 
