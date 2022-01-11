@@ -12,3 +12,4 @@ This is a central hub for exchanging solutions on health data management in HDF5
 * [Lifelog Bigdata](http://www.bigdata-lifelog.kr/lifelog/find/distribute/dataList)
 * [ChRIS Project](http://chrisproject.org)
 * [HealthData.gov](https://healthdata.gov/)
+* [bax2bam] (https://github.com/pacificbiosciences/bax2bam/)
