@@ -6,11 +6,11 @@ Announcement: I'm looking for Geo-tagged health data samples. (e.g., Apple / Gal
 
 This is a central hub for exchanging solutions on health data management in HDF5.
 
-
 ## Who
 * [John Haynes](https://appliedsciences.nasa.gov/about/our-team/john-haynes)
 
 ## When
+* 2024 [ISIC Skin Cancer Detection with 3D-TBP](https://www.kaggle.com/competitions/isic-2024-challenge/data)
 * 2023 [Mind In Vitro Platforms: Versatile, Scalable, Robust, and Open Solutions to Interfacing with Living Neurons](https://onlinelibrary.wiley.com/doi/10.1002/advs.202306826)
 
 ## What
