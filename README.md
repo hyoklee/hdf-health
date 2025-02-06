@@ -15,6 +15,7 @@ This is a central hub for exchanging solutions on health data management in HDF5
 
 ## What
 
+* [Pulsating Waterjet Cutting Dataset](https://www.kaggle.com/code/melanieschaller/converting-to-wav-and-custom-dataloader)
 * [Geometric constraints on human brain function](https://osf.io/xczmp/): MATLAB 7.3-MAT file (= HDF5).
 * [TCGA HDF](https://zenodo.org/record/6977490#.ZCR0iC-B2Aw)
 * [NIH Chest Xray in PNG](https://nihcc.app.box.com/v/ChestXray-NIHCC) (10K images)
