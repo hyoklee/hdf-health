@@ -4,7 +4,12 @@ Announcement: I'm looking for Geo-tagged health data samples. (e.g., Apple / Gal
 
 ## Why
 
-This is a central hub for exchanging solutions on health data management in HDF5.
+This is a central hub for exchanging solutions on open-source health data management in HDF5.
+
+>(a)  all federally funded health research should empower Americans through transparency and open-source data, 
+>and should avoid or eliminate conflicts of interest that skew outcomes and perpetuate distrust;
+
+Source: https://www.whitehouse.gov/presidential-actions/2025/02/establishing-the-presidents-make-america-healthy-again-commission/
 
 ## Who
 * [John Haynes](https://appliedsciences.nasa.gov/about/our-team/john-haynes)
