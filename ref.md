@@ -1,2 +1,4 @@
 * [A multimodal sleep foundation model for disease prediction](https://www.nature.com/articles/s41591-025-04133-4)
 * [ClinicalTrials.gov](https://clinicaltrials.gov/)
+* [Towards a Medical AI Scientist](https://arxiv.org/abs/2603.28589)
+
